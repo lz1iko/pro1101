@@ -1,0 +1,15 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 106C-C0E5
+
+ Directory of C:\Users\3-6\Desktop\project1101
+
+01/11/2024  02:19 PM    <DIR>          .
+01/11/2024  02:19 PM    <DIR>          ..
+01/11/2024  02:19 PM                 0 ilko.txt
+01/11/2024  02:17 PM               469 index.html
+01/11/2024  11:58 AM               388 index2.html
+01/11/2024  01:18 PM               394 index3.html
+01/11/2024  02:17 PM                10 README.md
+01/11/2024  10:16 AM                19 test.txt
+               6 File(s)          1,280 bytes
+               2 Dir(s)  10,026,835,968 bytes free
